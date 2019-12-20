@@ -17,6 +17,7 @@ If you have ideas of what can be added to `repository-template` - welcome!
 to start using this template need to update next places:
 1. update name and year fro [LICENSE](LICENSE) part.
 2. update About and Usage parts in README. Remove other projects if wants it.
+3. update Authors chapter.
 
 ## Building
 ...
@@ -26,6 +27,12 @@ to start using this template need to update next places:
 
 ## Release Notes
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
+
+## Authors
+* Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
+
+## Acknowledgments
+...
 
 ## Contributing
 Please, follow [Contributing](CONTRIBUTING.md) page.
