@@ -1,4 +1,4 @@
-## About
+## Overview
 Repository creates for fast running development process with configuration, which are the same from project to project.
 For java development can be used [java-repository-template](https://github.com/romankh3/java-repository-template) with configurable gradle and maven build system.
 
@@ -11,18 +11,18 @@ Added:
 *   .gitginore file
 *   Issue templates
 
-## Propositions
+### Propositions
 If you have ideas of what can be added to `repository-template` - welcome!
 
 ## Usage
 to start using this template need to update next places:
-1. choose maven or gradle and remove unneeded data.
-2. update artifactId from `repository-template` to specific one.
-3. update name and year fro [LICENSE](LICENSE) part.
-4. update About and Usage parts in README. Remove other projects if wants it.
-5. rename main and test packages.
+1. update name and year fro [LICENSE](LICENSE) part.
+2. update About and Usage parts in README. Remove other projects if wants it.
 
 ## Building
+...
+
+## Troubleshooting
 ...
 
 ## Release Notes
