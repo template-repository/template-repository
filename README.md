@@ -1,6 +1,8 @@
 ## Overview
 Repository creates for fast running development process with configuration, which are the same from project to project.
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/romankh3/respository-template/pulls)
+
 Added:
 *   Apache 2.0 license
 *   Code of conduct file
