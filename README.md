@@ -1,6 +1,5 @@
 ## Overview
 Repository creates for fast running development process with configuration, which are the same from project to project.
-For java development can be used [java-repository-template](https://github.com/romankh3/java-repository-template) with configurable gradle and maven build system.
 
 Added:
 *   Apache 2.0 license
