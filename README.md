@@ -36,7 +36,7 @@ Please, follow [Code of Conduct](CODE_OF_CONDUCT.md) page.
 ## License
 This project is Apache License 2.0 - see the [LICENSE](LICENSE) file for details
 
-#### Also see my other repositories
+## My other repositories
 *   [image-comparison](https://github.com/romankh3/image-comparison) - Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests.
 *   [skyscanner-flight-api-client](https://github.com/romankh3/skyscanner-flight-api-client) - Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights Monitoring](https://github.com/romankh3/flights-monitoring) - app for monitoring flights cost based on Skyscanner API
